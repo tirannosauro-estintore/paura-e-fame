@@ -60,6 +60,5 @@ var $plugins =
 {"name":"WeaponSkill","status":true,"description":"Change skill id of attack for each weapon.","parameters":{}},
 {"name":"Olivia_MetaControls","status":true,"description":"<MetaControls> for RPG Maker MV version 1.6.1.","parameters":{"":"","ATTENTION!!!":"READ THE HELP FILE","Common Event on New Game":"0","Common Event on Load":"0","Variables on Save":"","Map ID":"0","Map X":"0","Map Y":"0"}},
 {"name":"YEP_AutoPassiveStates","status":true,"description":"v1.17 This plugin allows for some states to function as\npassives for actors, enemies, skills, and equips.","parameters":{"---Basic---":"","Actor Passives":"0","Enemy Passives":"0","Global Passives":"0","---List---":"...Requires RPG Maker MV 1.5.0+...","Actor Passives List":"[]","Enemy Passives List":"[]","Global Passives List":"[]"}},
-{"name":"Cross Ref","status":false,"description":"Shows database references throughout your project.","parameters":{}},
-{"name":"SRD_TranslationEngine","status":true,"description":"Provides game developers with an in-game tool for building and managing translations/localizations for their game's text.","parameters":{"Source Language Name":"English","Languages":"[\"Italian\"]","Default Language":"Italian","Provide Option?":"false","Option Name":"Language","Allow Message Update?":"true"}}
+{"name":"Cross Ref","status":false,"description":"Shows database references throughout your project.","parameters":{}}
 ];
